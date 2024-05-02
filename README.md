@@ -14,10 +14,3 @@
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) + [Java 21 SDK](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) + [Vue 3](https://vuejs.org/).
 
-## Project Setup
-
-Clone the project and install dependencies:
-```sh
-git clone https://github.com/universe-ron/3Cmall.git
-cd path/to/your-project
-npm install

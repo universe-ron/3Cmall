@@ -1,17 +1,23 @@
-3Cmall - Apple Product E-commerce Platform
+# 3Cmall - Apple Product E-commerce Platform
 
-3Cmall is an e-commerce platform dedicated to selling Apple products, including iPhones, iPads, and Mac computers. It's designed to provide a seamless shopping experience with support for third-party login and payment options, along with advanced features like a shopping cart and data analytics.
+3Cmall is an e-commerce platform dedicated to selling Apple products, including iPhones, iPads, and Mac computers. It offers seamless shopping with third-party login and payment integrations, a shopping cart, member center, and data analytics features.
 
-Features
+## Features
 
-Third-party Login/Logout: Integration with Google and Line for easy account management.
-Third-party Payments: Supports payments through PayPal and Stripe for a smooth checkout process.
-Shopping Cart: Manage your purchases conveniently before making an order.
-Member Center: A dedicated area for users to manage their accounts, view order history, and update settings.
-Data Analytics: Tools to analyze sales data, helping to understand customer preferences and boosting sales strategies.
+- **Third-party Login/Logout:** Integrated with Google and Line for streamlined account management.
+- **Third-party Payments:** Accepts payments via PayPal and Stripe.
+- **Shopping Cart:** Allows users to manage their purchases.
+- **Member Center:** Users can manage their profiles, view order history, and adjust settings.
+- **Data Analytics:** Provides insights into customer behavior and sales trends.
 
-Installation
+## Recommended IDE Setup
 
-Requirements
-IntelliJ IDEA
-Java 21
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) + [Java 21 SDK](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) + [Vue 3](https://vuejs.org/).
+
+## Project Setup
+
+Clone the project and install dependencies:
+```sh
+git clone https://github.com/universe-ron/3Cmall.git
+cd path/to/your-project
+npm install
